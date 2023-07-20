@@ -4,19 +4,19 @@ body {
   font-family: sans-serif;
 }
 
-h1 {
+h1,
+p,
+footer {
   text-align: center;
 }
 
 p {
-  text-align: center;
   margin: 20px auto;
   max-width: 900px;
 }
 
 footer {
   display: block;
-  text-align: center;
 }
 
 footer a {
